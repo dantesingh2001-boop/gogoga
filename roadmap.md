@@ -1,0 +1,11 @@
+# SMART BAG
+- [x] Build exactly five cinematic branded slides with manual navigation.
+- [x] Add custom backpack logo and favicon; remove optional generic branding in page content.
+- [x] Replace the technical diagram, demonstration and closing recap with a concise product slide, unit economics and valuation.
+- [x] Verify the revised five-slide pitch, financial sections, navigation and print output.
+- [x] Verify desktop/mobile presentation and explain platform badge limitation.
+- [x] Add and verify dramatic directional slide transitions with reduced-motion support.
+- [x] Set an explicitly proposed MRP; keep unverified costs, profit and valuation pending.
+- [x] Populate all unit economics as clearly labelled planning assumptions and verify calculations.
+- [x] Give the four slide boundaries distinct transition effects and verify both directions.
+- [ ] Hide the platform badge — blocked by editor-role and Pro-or-higher eligibility; required branding is preserved.
